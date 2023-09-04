@@ -1010,6 +1010,7 @@
           "name": "NE",
           "title": "Have you participated in any of the following behaviors currently or in the past:",
           "hideNumber": true,
+          "isRequired": true,
           "choices": [
             {
               "value": "NE1",
